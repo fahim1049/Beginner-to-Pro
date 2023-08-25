@@ -1,3 +1,10 @@
+//Print the pattern
+        //1234
+        //123
+        //12
+        //1
+
+
 public class Problem6 {
     public static void main(String[]args){
         int n = 5;
