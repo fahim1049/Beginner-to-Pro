@@ -40,17 +40,3 @@ This University Portal mainly have two parts
 4. Result
 5. Logout
 
-## Use Case Diagram
-
-![Use Case Diagram.png](Use%20Case%20Diagram.png)
-
-## Class Diagram
-
-![Class Diagram.png](Class%20Diagram.png)
-
-## Activity Diagram
-
-![Activity Diagram.png](Activity%20Diagram.png)
-
-
-[Java Project Proposal.pdf](Java%20Project%20Proposal.pdf)
